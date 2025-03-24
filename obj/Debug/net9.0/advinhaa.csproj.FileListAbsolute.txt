@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Advinhaa\advinhaa\bin\Debug\net9.0\advinhaa.exe
+C:\Users\user\Documents\Advinhaa\advinhaa\bin\Debug\net9.0\advinhaa.deps.json
+C:\Users\user\Documents\Advinhaa\advinhaa\bin\Debug\net9.0\advinhaa.runtimeconfig.json
+C:\Users\user\Documents\Advinhaa\advinhaa\bin\Debug\net9.0\advinhaa.dll
+C:\Users\user\Documents\Advinhaa\advinhaa\bin\Debug\net9.0\advinhaa.pdb
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.AssemblyInfo.cs
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.sourcelink.json
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.dll
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\refint\advinhaa.dll
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.pdb
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\advinhaa.genruntimeconfig.cache
+C:\Users\user\Documents\Advinhaa\advinhaa\obj\Debug\net9.0\ref\advinhaa.dll
